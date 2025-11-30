@@ -1,0 +1,2 @@
+# Este arquivo mantém o diretório .auth/ no controle de versão
+# Os arquivos de token (token.json) são ignorados pelo .gitignore

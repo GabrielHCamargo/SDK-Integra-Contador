@@ -1,0 +1,2 @@
+"""Template loading and indexing."""
+
